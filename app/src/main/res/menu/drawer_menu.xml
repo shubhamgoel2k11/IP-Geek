@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myquestions"
+            android:title="My Questions"
+            android:icon="@drawable/home"
+            />
+        <item
+        android:id="@+id/nav_cse"
+        android:title="Computer Science"
+        android:icon="@drawable/cse"
+        />
+        <item
+        android:id="@+id/nav_it"
+        android:title="Information Technology"
+        android:icon="@drawable/it"
+        />
+        <item
+        android:id="@+id/nav_ece"
+        android:title="Electronic and Communication"
+        android:icon="@drawable/ece"
+        />
+     </group>
+
+    <item android:title="Actions">
+
+        <menu>
+            <item android:id="@+id/share"
+                android:icon="@drawable/share"
+
+                android:title="Share"/>
+            <item android:id="@+id/rate"
+                android:icon="@drawable/rate"
+                android:title="Rate"/>
+
+        </menu>
+    </item>
+
+</menu>

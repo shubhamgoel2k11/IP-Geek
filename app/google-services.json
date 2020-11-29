@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283183926875",
+    "firebase_url": "https://ip-geek.firebaseio.com",
+    "project_id": "ip-geek",
+    "storage_bucket": "ip-geek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283183926875:android:933cf765a9dde5950b797e",
+        "android_client_info": {
+          "package_name": "com.collegeApplication.ipgeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283183926875-tec5dmimdj76blqhkjprua87d3bpejec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collegeApplication.ipgeek",
+            "certificate_hash": "bb83fd6fa7e291783337f3e150a483969c3fd9e7"
+          }
+        },
+        {
+          "client_id": "283183926875-43eevq9ncvhvjm6dt7pltd21d2iqt7fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMsfiktzr3cU6uecFZY0EdSmgXORCJ2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283183926875-43eevq9ncvhvjm6dt7pltd21d2iqt7fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

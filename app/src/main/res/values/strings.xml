@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IP Geek</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="topics">
+        <item>Select Topic</item>
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Electronics and Communications</item>
+    </string-array>
+</resources>
