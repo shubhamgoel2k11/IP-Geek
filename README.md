@@ -42,7 +42,6 @@ IP Geek
 
 
 
-
 6. Comment Section
 
 ![image](https://user-images.githubusercontent.com/56365036/121815239-028d3700-cc93-11eb-9209-f1fb23619a36.png)
